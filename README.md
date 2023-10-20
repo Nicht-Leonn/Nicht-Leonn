@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nicht-Leonn
-- 👀 I’m interested in Python but my Teacher teachs Lazarus
+- 👀 I’m interested in Python 
 - 🌱 I’m currently learning Lazarus 💀
 - 💞️ I’m looking to collaborate on x
 - 📫 How to reach me: via Discord #Alter_Architekt
